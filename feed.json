@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Koros-Musique",
+    "description": "",
+    "home_page_url": "https://koros-musique.fr",
+    "feed_url": "https://koros-musique.fr/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lionel Le Fournis"
+    },
+    "items": [
+        {
+            "id": "https://koros-musique.fr/test/",
+            "url": "https://koros-musique.fr/test/",
+            "title": "Test",
+            "author": {
+                "name": "Lionel Le Fournis"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-30T14:55:05+01:00",
+            "date_modified": "2026-10-30T14:55:05+01:00"
+        },
+        {
+            "id": "https://koros-musique.fr/accueil/",
+            "url": "https://koros-musique.fr/accueil/",
+            "title": "Accueil",
+            "author": {
+                "name": "Lionel Le Fournis"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T09:20:59+01:00",
+            "date_modified": "2026-10-29T09:20:59+01:00"
+        }
+    ]
+}

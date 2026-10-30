@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Koros-Musique</title>
+    <link href="https://koros-musique.fr/feed.xml" rel="self" />
+    <link href="https://koros-musique.fr" />
+    <updated>2026-10-30T14:55:05+01:00</updated>
+    <author>
+        <name>Lionel Le Fournis</name>
+    </author>
+    <id>https://koros-musique.fr</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Lionel Le Fournis</name>
+        </author>
+        <link href="https://koros-musique.fr/test/"/>
+        <id>https://koros-musique.fr/test/</id>
+
+        <updated>2026-10-30T14:55:05+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Accueil</title>
+        <author>
+            <name>Lionel Le Fournis</name>
+        </author>
+        <link href="https://koros-musique.fr/accueil/"/>
+        <id>https://koros-musique.fr/accueil/</id>
+
+        <updated>2026-10-29T09:20:59+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
